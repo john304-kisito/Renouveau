@@ -1,0 +1,27 @@
+body{
+    background-image:url(ppp.jpg);
+}
+menu{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background-color: rgb(228, 227, 226);
+}
+
+
+.contenus{
+width: 100%;
+}
+/* menu du site*/
+
+.menu{
+width: 100%;
+background-color: rgb(14, 12, 12);
+display: flex;
+justify-content: space-around;
+place-items: center;
+color: white;
+padding: 30px 0;
+}
